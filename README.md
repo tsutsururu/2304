@@ -14,7 +14,7 @@
 
 # 0405
 
-# ☆ HHKB2020  Lamps  diff 1399
+# ☆ HHKB2020E  Lamps  diff 1399
 
 降参
 
